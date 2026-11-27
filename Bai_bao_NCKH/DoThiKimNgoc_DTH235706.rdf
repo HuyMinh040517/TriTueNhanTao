@@ -1,0 +1,470 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S1560429226000740">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:15604292"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Reddig</foaf:surname>
+                        <foaf:givenName>Jennifer M</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Arora</foaf:surname>
+                        <foaf:givenName>Arav</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>MacLellan</foaf:surname>
+                        <foaf:givenName>Christopher J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_1"/>
+        <dc:title>Generating In-Context, Personalized Feedback for Intelligent Tutors with Large Language Models</dc:title>
+        <dcterms:abstract>This study explores how large language models (LLMs), speciﬁcally GPT-4, could be used to generate personalized feedback within an Intelligent Tutoring System (ITS). The research focuses on evaluating the model’s ability to (1) diagnose student errors, (2) generate personalized corrective feedback, and (3) assess the accuracy of diagnoses and helpfulness of the feedback. We analyze student errors from the Apprentice Tutor College Algebra ITS and prompt GPT-4 to give targeted feedback on those errors. The ﬁndings suggest that while this model can effectively diagnose a range of student errors, its feedback varies in effectiveness based on the complexity of the problem and the type of error. While GPT-4 generates relevant, speciﬁc feedback a majority of the time, 35% of the hints were too general, incorrect, or give away the correct answer. The study also explores methods for using an LLM to automatically evaluate the validity of generated feedback, and ﬁnds that only 35% of feedback passes automated helpfulness evaluations.</dcterms:abstract>
+        <dc:date>12/2025</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S1560429226000740</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-20 15:32:49</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <bib:pages>3459-3500</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:15604292">
+        <dc:identifier>DOI 10.1007/s40593-025-00505-6</dc:identifier>
+        <prism:volume>35</prism:volume>
+        <dc:title>International Journal of Artificial Intelligence in Education</dc:title>
+        <dc:identifier>ISSN 15604292</dc:identifier>
+        <prism:number>6</prism:number>
+        <dcterms:alternative>International Journal of Artificial Intelligence in Education</dcterms:alternative>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_1">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://ccsenet.org/journal/index.php/jel/article/view/0/51890">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1927-5269,%201927-5250"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Marwiang</foaf:surname>
+                        <foaf:givenName>Metta</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Prasertsang</foaf:surname>
+                        <foaf:givenName>Mongkhol</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Junpeng</foaf:surname>
+                        <foaf:givenName>Putcharee</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3"/>
+        <dc:title>Enhancing Students’ Learning Outcomes in Mathematics through Intelligent Tutoring Systems Based on Real-Time Feedback</dc:title>
+        <dcterms:abstract>This study examined the effectiveness of an intelligent tutoring system (ITS) driven by real-time feedback in enhancing students’ mathematical learning outcomes, as defined by the Structure of Observed Learning Outcomes. Conducted within the domains of Measurement and Geometry, the study employed a randomized controlled trial involving 120 students from the Mathematics Program for Gifted Students at Khon Kaen University Demonstration School. Of these, 78 were selected through systematic random sampling and assigned to experimental and control groups. The experimental group engaged with the ITS featuring automated, real-time feedback, while the control group used the same system without feedback. Both groups utilized the system through adaptive diagnostic assessments. The diagnostic test demonstrated strong psychometric properties (Rasch model difficulty range = -2.34 to 1.71; Cronbach’s α = 0.81; IRT reliability = 0.89). Statistical analyses—including independent t-tests, repeated measures ANOVA, and relative gain scores—revealed significant learning gains in the experimental group (p &lt; .05). Mean scores increased from 1.90 to 3.54 in the experimental group and from 1.90 to 2.85 in the control group. The experimental group reached an advanced level (M = 84.83%), significantly outperforming the control group (M = 61.54%), with an effect size of 0.73. These findings highlight the potential of ITS with diagnostic feedback to foster deep, structured mathematical understanding and offer valuable insights for personalized digital learning.</dcterms:abstract>
+        <dc:date>2025-06-30</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ccsenet.org/journal/index.php/jel/article/view/0/51890</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-20 15:32:56</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:rights>https://creativecommons.org/licenses/by/4.0</dc:rights>
+        <bib:pages>186</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1927-5269,%201927-5250">
+        <dc:identifier>DOI 10.5539/jel.v14n6p186</dc:identifier>
+        <prism:volume>14</prism:volume>
+        <dc:title>Journal of Education and Learning</dc:title>
+        <dc:identifier>ISSN 1927-5269, 1927-5250</dc:identifier>
+        <prism:number>6</prism:number>
+        <dcterms:alternative>JEL</dcterms:alternative>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.nature.com/articles/s41598-025-07422-7">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2045-2322"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhou</foaf:surname>
+                        <foaf:givenName>Xin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Zhuoxu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xie</foaf:surname>
+                        <foaf:givenName>Xike</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Jiawei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_5"/>
+        <dc:title>Deep learning based knowledge tracing in intelligent tutoring systems</dc:title>
+        <dc:date>2025-07-01</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.nature.com/articles/s41598-025-07422-7</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-20 15:33:08</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <bib:pages>21395</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2045-2322">
+        <dc:identifier>DOI 10.1038/s41598-025-07422-7</dc:identifier>
+        <prism:volume>15</prism:volume>
+        <dc:title>Scientific Reports</dc:title>
+        <dc:identifier>ISSN 2045-2322</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Sci Rep</dcterms:alternative>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_5">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.mdpi.com/2079-3200/14/6/109">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2079-3200"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Doğan</foaf:surname>
+                        <foaf:givenName>Yunus</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kılıç</foaf:surname>
+                        <foaf:givenName>Zeynep</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kalınkara</foaf:surname>
+                        <foaf:givenName>Yusuf</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Talan</foaf:surname>
+                        <foaf:givenName>Tarık</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_9"/>
+        <dc:title>The Impact of Artificial Intelligence-Supported Instruction on Student Learning in STEM: A Systematic Review and Meta-Analysis</dc:title>
+        <dcterms:abstract>The rapid integration of artificial intelligence (AI) technologies into educational contexts has introduced innovative instructional approaches, particularly within Science, Technology, Engineering, and Mathematics (STEM) education. Although an increasing number of empirical studies have examined AI-supported instruction, existing findings remain heterogeneous, making it difficult to draw firm conclusions about its overall effectiveness. This study aims to systematically synthesize experimental and quasi-experimental research on AI-supported instructional interventions in STEM education, quantify their overall effects on student learning outcomes, and examine potential moderating factors, including educational level, STEM discipline, and intervention duration. A comprehensive systematic literature search was conducted across Web of Science, Scopus, ERIC, ScienceDirect, and Google Scholar, covering studies published between 2005 and 2025. A total of 35 studies meeting predefined inclusion criteria were included in the meta-analysis. Effect sizes were calculated using Hedges’ g, and a Random Effects Model (REM) was employed to account for heterogeneity among studies. Moderator analyses were conducted for educational level, STEM discipline, and intervention duration. Publication bias was assessed using multiple diagnostic methods. The meta-analysis revealed a statistically significant overall positive effect of AI-supported instruction on student learning outcomes in STEM education (g = 0.67, 95% CI [0.49, 0.85], p &lt; 0.001). Moderator analyses indicated that AI interventions were most effective at the high school level. Although Science and Mathematics disciplines showed slightly higher effect sizes, the between-group difference was not statistically significant (Q = 4.85, df = 2, p = 0.088). Regarding intervention duration, the highest effect size was observed in interventions lasting more than one month and up to two months, though no consistent pattern of increasing effectiveness with longer durations was found. Publication bias analyses suggested minimal influence on the overall findings. AI-supported instructional interventions demonstrate a moderately to highly positive impact on student learning outcomes in STEM education. The effectiveness of these interventions varies according to educational level, disciplinary context, and intervention duration. These findings provide robust empirical evidence supporting the pedagogical value of AI in STEM education and offer guidance for educators and policymakers regarding effective implementation.</dcterms:abstract>
+        <dc:date>2026-06-15</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.mdpi.com/2079-3200/14/6/109</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-20 15:33:16</dcterms:dateSubmitted>
+        <z:shortTitle>The Impact of Artificial Intelligence-Supported Instruction on Student Learning in STEM</z:shortTitle>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <bib:pages>109</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2079-3200">
+        <dc:identifier>DOI 10.3390/jintelligence14060109</dc:identifier>
+        <prism:volume>14</prism:volume>
+        <dc:title>Journal of Intelligence</dc:title>
+        <dc:identifier>ISSN 2079-3200</dc:identifier>
+        <prism:number>6</prism:number>
+        <dcterms:alternative>J. Intell.</dcterms:alternative>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_9">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://www.researchsquare.com/article/rs-4243877/v1">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>In Review</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kestin*</foaf:surname>
+                        <foaf:givenName>Gregory</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Miller*</foaf:surname>
+                        <foaf:givenName>Kelly</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Klales</foaf:surname>
+                        <foaf:givenName>Anna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Milbourne</foaf:surname>
+                        <foaf:givenName>Timothy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ponti</foaf:surname>
+                        <foaf:givenName>Gregorio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_11"/>
+        <dc:title>AI Tutoring Outperforms Active Learning</dc:title>
+        <dcterms:abstract>Advances in generative arti cial intelligence (GAI) show great potential for improving education. Yet little is known about how this new technology should be used and how effective it can be. Here we report a randomized, controlled study measuring college students’ learning and their perceptions when content is presented through an AI-powered tutor compared with an active learning class. The AI tutor was developed with the same pedagogical best practices as the lectures. We nd that students learn more than twice as much in less time when using an AI tutor, compared with the active learning class. They also feel more engaged and more motivated. These ndings offer empirical evidence for the e cacy of a widely accessible AI-powered pedagogy in signi cantly enhancing learning outcomes, presenting a compelling case for its broad adoption in learning environments.</dcterms:abstract>
+        <dc:date>2024-05-14</dc:date>
+        <dc:identifier>DOI 10.21203/rs.3.rs-4243877/v1</dc:identifier>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchsquare.com/article/rs-4243877/v1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-20 15:33:19</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_11">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-025-00566-y">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2196-7822"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Shanshan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zeng</foaf:surname>
+                        <foaf:givenName>Chengze</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Huaiya</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jia</foaf:surname>
+                        <foaf:givenName>Jiyou</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liang</foaf:surname>
+                        <foaf:givenName>Min</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cha</foaf:surname>
+                        <foaf:givenName>Yinging</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lim</foaf:surname>
+                        <foaf:givenName>Cher Ping</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wu</foaf:surname>
+                        <foaf:givenName>Xiaomeng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_13"/>
+        <dc:title>A meta-analysis of AI-enabled personalized STEM education in schools</dc:title>
+        <dcterms:abstract>AI-enabled personalization in STEM education is a transformative paradigm in pedagogical approaches, offering students a learning experience that is dynamically responsive to their nuanced requisites. Owing to the rapid development of AI-enabled personalized STEM education, there is a need for more systematic meta-analyses synthesizing its implementation in K-12 schools and examining its effects on improving educational outcomes. To examine the effect of AI technologies on personalized K-12 STEM education under different conditions, a meta-analysis was conducted by synthesizing 99 effect sizes extracted from 32 randomized controlled trial studies. The screening process followed the PRISMA flow diagram. In the coding process, the PICO tool was adapted as a coding sheet to extract pertinent details of each study. The analysis reveals a medium effect of AI technologies in personalized K-12 STEM education, indicating potential advantages over traditional non-AI methods. Six moderators were examined, with four (i.e., school levels, AI application types, personalized learning model types, and subjects) found to be significant in improving educational outcomes. Specifically, AI-enabled STEM education is more effective in junior and senior high school. Secondly, AR or VR tools show the most significant impact on students’ learning outcomes. Furthermore, learning models combined with classroom use exert more significant effects. Moreover, AI technology demonstrates the most important effects in comprehensive courses. Finally, observed items and GAI usage show no significant moderating effects. This paper advocates for an evidence-based and pedagogically aligned integration of AI-enabled personalized STEM education.</dcterms:abstract>
+        <dc:date>2025-10-21</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-025-00566-y</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-20 15:33:28</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <bib:pages>58</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2196-7822">
+        <dc:identifier>DOI 10.1186/s40594-025-00566-y</dc:identifier>
+        <prism:volume>12</prism:volume>
+        <dc:title>International Journal of STEM Education</dc:title>
+        <dc:identifier>ISSN 2196-7822</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>IJ STEM Ed</dcterms:alternative>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_13">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://zenodo.org/doi/10.5281/zenodo.17920737">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:identifier>DOI 10.5281/ZENODO.17920737</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>Zenodo</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Maryam Fatima</foaf:surname>
+                        <foaf:givenName>Muhammad Hamza Khawar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_15"/>
+        <dc:title>IMPACT OF AI-BASED ADAPTIVE LEARNING SYSTEMS ON STUDENT ENGAGEMENT AND LEARNING OUTCOMES</dc:title>
+        <dcterms:abstract>Adaptive learning systems that use artificial intelligence have become more popular in contemporary education, but their actual effectiveness in student engagement and achievement in STEM classrooms is not well understood. The paper is the evaluation of an adaptive learning model based on reinforcement learning implemented in a STEM course of a university in eight weeks. We examined the engagement measures among 120 students, the pre/post academic performance, and qualitative interviews of the students and instructors using a mixed-methods design. Findings indicate that adaptive AI system enhanced overall engagement by 28.4%, quiz accuracy by 17.2% and time-to-mastery by 22.9% relative to traditional fixed-path learning. The students indicated increased motivation and satisfaction with the individualized learning paths. These results indicate that adaptive AI systems can greatly increase STEM learning in case they are implemented into the current LMS systems.</dcterms:abstract>
+        <dc:date>2025-12-13</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://zenodo.org/doi/10.5281/zenodo.17920737</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-20 15:33:34</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Datacite)</z:libraryCatalog>
+        <dc:rights>Creative Commons Attribution 4.0 International</dc:rights>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_15">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://slejournal.springeropen.com/articles/10.1186/s40561-025-00389-y">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2196-7091"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Villegas-Ch</foaf:surname>
+                        <foaf:givenName>William</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Buenano-Fernandez</foaf:surname>
+                        <foaf:givenName>Diego</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Navarro</foaf:surname>
+                        <foaf:givenName>Alexandra Maldonado</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mera-Navarrete</foaf:surname>
+                        <foaf:givenName>Aracely</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_17"/>
+        <dc:title>Adaptive intelligent tutoring systems for STEM education: analysis of the learning impact and effectiveness of personalized feedback</dc:title>
+        <dcterms:abstract>Teaching Science, Technology, Engineering, and Mathematics (STEM) disciplines faces significant challenges due to the increasing complexity of content and the diversity in students’ knowledge levels. Traditional teaching methods, characterized by their standardized approach, fail to adapt to individual needs, limiting learning potential. This problem is particularly evident in mathematics, physics, and programming, where mastering critical concepts requires a logical and sequential progression. This study proposes an artificial intelligence‑based intelligent tutoring system to provide a real‑time personalized and adaptive learning experience. The system integrates advanced deep learning and natural language processing models, allowing for tar‑geted feedback and dynamic adjustment of learning trajectories. The results show significant improvements in several key metrics. The experimental group achieved an average precision of 85% in programming and 78% in mathematics, significantly outperforming the control group. Furthermore, a linear regression model identified a positive correlation between the time of interaction with the system and the rate of progress in fundamental concepts. Student perceptions were also highly positive, with 80% appreciating the usefulness of adaptive feedback. These findings identify the system’s potential to transform STEM teaching, address the lack of personalization, and improve learning in various educational settings.</dcterms:abstract>
+        <dc:date>2025-06-30</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://slejournal.springeropen.com/articles/10.1186/s40561-025-00389-y</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-09-20 15:34:34</dcterms:dateSubmitted>
+        <z:shortTitle>Adaptive intelligent tutoring systems for STEM education</z:shortTitle>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <bib:pages>41</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2196-7091">
+        <dc:identifier>DOI 10.1186/s40561-025-00389-y</dc:identifier>
+        <prism:volume>12</prism:volume>
+        <dc:title>Smart Learning Environments</dc:title>
+        <dc:identifier>ISSN 2196-7091</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Smart Learn. Environ.</dcterms:alternative>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_17">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+</rdf:RDF>
